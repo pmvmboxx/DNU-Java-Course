@@ -6,4 +6,4 @@ public interface Function {
     Function derivative(); //повертає похідну
 
     String toPrettyString(NumberFormat nf); //повертає форматований рядок
-}
+} //commenting for Lab3
